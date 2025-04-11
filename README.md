@@ -8,7 +8,17 @@ Aplicación desarrollada en **React + TypeScript + Vite** para calcular el consu
 - Selección del porcentaje de propina
 - Cálculo del total con propina incluida
 
-## Estado del proyecto
+---
 
-Versión inicial funcional. Se agregará más funcionalidad próximamente.
+## Tecnologías usadas
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+---
+
+
 Desarrollado por Jesús
+
