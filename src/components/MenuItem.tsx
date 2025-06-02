@@ -6,6 +6,7 @@ type MenuItemProps = {
 }
 
 export default function MenuItem({item, addItem} : MenuItemProps) {
+  
   return (
     <button
       className="border-3 border-teal-400 w-full p-3 flex justify-between hover:bg-teal-200 cursor-pointer"
